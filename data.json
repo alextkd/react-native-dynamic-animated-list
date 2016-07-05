@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6f3b04111d8c896d2dd0fe2b89105652",
+    "name": "Alex Lazar",
+    "company": "Modus Create",
+    "email": "alex@moduscreate.com",
+    "phone": "+40 747 215 726"
+  },
+  {
+    "id": "5693fcb5a83e20b8599b4065116c2440",
+    "name": "Andrei Lakatos",
+    "company": "Modus Create",
+    "email": "andrei@moduscreate.com",
+    "phone": "+1 (846) 465-3733"
+  },
+  {
+    "id": "e65aa1b6433e36f2500959d51ad6ad80",
+    "name": "Vadim Popa",
+    "company": "Modus Create",
+    "email": "vadim@moduscreate.com",
+    "phone": "+1 (849) 465-1233"
+  },
+  {
+    "id": "080444f08287029d5387a95109d5ab7a",
+    "name": "Sergiu Popescu",
+    "company": "Modus Create",
+    "email": "sergiu@moduscreate.com",
+    "phone": "+1 (26) 965-1733"
+  },
+  {
+    "id": "856462f3439d1f8e21a281525f6abdb1",
+    "name": "Elod Szopos",
+    "company": "Modus Create",
+    "email": "elod@moduscreate.com",
+    "phone": "+1 (846) 465-3733"
+  }
+]

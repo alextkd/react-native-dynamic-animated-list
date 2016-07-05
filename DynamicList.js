@@ -37,7 +37,6 @@ class DynamicListRow extends Component {
     }
 
     onRemoving(callback) {
-        console.log("removing");
         Animated.timing(this.state._rowHeight, {
             toValue  : 0,
             duration : this._defaultTransition
@@ -139,7 +138,6 @@ export default class DynamicList extends Component {
 
 
     _renderRow(rowData, sectionID, rowID) {
-        console.log(rowData.id === this.state.rowToDelete);
         return (
             <DynamicListRow
                 remove={rowData.id === this.state.rowToDelete}

@@ -23,4 +23,4 @@ Run your project in the iOS Simulator
 
 And you can see a small demo here:
 
-![Demo Dynamic Animated List](https://www.dropbox.com/s/nqcsismm0v8en8b/dynamicAnimatedList.gif)
+<img src="https://www.dropbox.com/s/nqcsismm0v8en8b/dynamicAnimatedList.gif" alt="Dynamic Animated List"/>

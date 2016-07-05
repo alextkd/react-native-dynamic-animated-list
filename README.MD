@@ -19,3 +19,8 @@ command.
 Run your project in the iOS Simulator
 
 `react-native run-ios`
+
+
+And you can see a small demo here:
+
+[![Demo Dynamic Animated List](https://www.dropbox.com/s/fqbrin9g1mh8o29/dynamicAnimatedList.mov?dl=0)](https://www.dropbox.com/s/fqbrin9g1mh8o29/dynamicAnimatedList.mov)

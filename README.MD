@@ -23,4 +23,4 @@ Run your project in the iOS Simulator
 
 And you can see a small demo here:
 
-<img src="https://www.dropbox.com/s/nqcsismm0v8en8b/dynamicAnimatedList.gif" alt="Dynamic Animated List"/>
+<img height=960 src="https://github.com/alextkd/react-native-dynamic-animated-list/blob/master/dynamicAnimatedList.gif" alt="Dynamic Animated List"/>
